@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0%;
+}
+#menu ul{
+    margin: 0;
+    background-color:rebeccapurple;
+    list-style: none;
+
+}
+#menu ul li{
+    display: inline;
+
+}
+#menu ul li a{
+    padding: 10px 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+
+}
+#menu ul li a:hover{
+    color: blue;
+
+}
+p{
+    margin: 0;
+    text-align: center;
+
+}
+footer{
+
+    margin: 0;
+    background-color:rebeccapurple;
+    list-style: none;
+
+}
